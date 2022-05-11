@@ -1,0 +1,7 @@
+checkpoint: /home/yaso/FL_CAE/experiments_FL/training/model_final.pth
+exp_name: testing
+batch_every: 100
+shuffle: false
+dataset_path: /home/yaso/FL_CAE/dataset/Kodak 1280X768
+num_workers: 1
+device: cuda

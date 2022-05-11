@@ -1,0 +1,2302 @@
+nohup: ignoring input
+[3217][22-05-10 20:41:21.084 @ train] INFO: training: experiment training
+----Epoch------ 1
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.5 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.4 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.5 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.8 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.8 s
+Round   1, Average loss 0.014
+Time consuming for a global epoch 595.2 s
+----Epoch------ 2
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.4 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.4 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.4 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.4 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.9 s
+Round   2, Average loss 0.004
+Time consuming for a global epoch 591.9 s
+----Epoch------ 3
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.7 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.1 s
+Round   3, Average loss 0.003
+Time consuming for a global epoch 590.1 s
+----Epoch------ 4
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.8 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.8 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.9 s
+Round   4, Average loss 0.003
+Time consuming for a global epoch 590.1 s
+----Epoch------ 5
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.6 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.8 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.5 s
+Round   5, Average loss 0.002
+Time consuming for a global epoch 589.5 s
+----Epoch------ 6
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.6 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.6 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.7 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.7 s
+Round   6, Average loss 0.002
+Time consuming for a global epoch 589.0 s
+----Epoch------ 7
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.8 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.1 s
+Round   7, Average loss 0.002
+Time consuming for a global epoch 590.3 s
+----Epoch------ 8
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.6 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.4 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.7 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.7 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Round   8, Average loss 0.002
+Time consuming for a global epoch 588.6 s
+----Epoch------ 9
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Round   9, Average loss 0.002
+Time consuming for a global epoch 590.4 s
+----Epoch------ 10
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Round  10, Average loss 0.002
+Time consuming for a global epoch 590.9 s
+----Epoch------ 11
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.8 s
+Round  11, Average loss 0.001
+Time consuming for a global epoch 590.4 s
+----Epoch------ 12
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.4 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 117.9 s
+Round  12, Average loss 0.001
+Time consuming for a global epoch 590.7 s
+----Epoch------ 13
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 118.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 110.9 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.5 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.5 s
+Round  13, Average loss 0.001
+Time consuming for a global epoch 557.5 s
+----Epoch------ 14
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.7 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.6 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  14, Average loss 0.001
+Time consuming for a global epoch 547.4 s
+----Epoch------ 15
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.5 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.6 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.5 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.6 s
+Round  15, Average loss 0.001
+Time consuming for a global epoch 547.9 s
+----Epoch------ 16
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  16, Average loss 0.001
+Time consuming for a global epoch 547.0 s
+----Epoch------ 17
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.6 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  17, Average loss 0.001
+Time consuming for a global epoch 546.8 s
+----Epoch------ 18
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.7 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  18, Average loss 0.001
+Time consuming for a global epoch 547.1 s
+----Epoch------ 19
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Round  19, Average loss 0.001
+Time consuming for a global epoch 546.6 s
+----Epoch------ 20
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  20, Average loss 0.001
+Time consuming for a global epoch 546.4 s
+----Epoch------ 21
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  21, Average loss 0.001
+Time consuming for a global epoch 546.4 s
+----Epoch------ 22
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  22, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 23
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.6 s
+Round  23, Average loss 0.001
+Time consuming for a global epoch 546.6 s
+----Epoch------ 24
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  24, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 25
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.5 s
+Round  25, Average loss 0.001
+Time consuming for a global epoch 546.5 s
+----Epoch------ 26
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  26, Average loss 0.001
+Time consuming for a global epoch 546.7 s
+----Epoch------ 27
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  27, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 28
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  28, Average loss 0.001
+Time consuming for a global epoch 546.1 s
+----Epoch------ 29
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  29, Average loss 0.001
+Time consuming for a global epoch 546.4 s
+----Epoch------ 30
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  30, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 31
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  31, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 32
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  32, Average loss 0.001
+Time consuming for a global epoch 545.4 s
+----Epoch------ 33
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  33, Average loss 0.001
+Time consuming for a global epoch 545.9 s
+----Epoch------ 34
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  34, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 35
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  35, Average loss 0.001
+Time consuming for a global epoch 545.9 s
+----Epoch------ 36
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  36, Average loss 0.001
+Time consuming for a global epoch 545.2 s
+----Epoch------ 37
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  37, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 38
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  38, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 39
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  39, Average loss 0.001
+Time consuming for a global epoch 545.4 s
+----Epoch------ 40
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  40, Average loss 0.001
+Time consuming for a global epoch 545.5 s
+----Epoch------ 41
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  41, Average loss 0.001
+Time consuming for a global epoch 545.4 s
+----Epoch------ 42
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  42, Average loss 0.001
+Time consuming for a global epoch 545.6 s
+----Epoch------ 43
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Round  43, Average loss 0.001
+Time consuming for a global epoch 545.0 s
+----Epoch------ 44
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  44, Average loss 0.001
+Time consuming for a global epoch 545.4 s
+----Epoch------ 45
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.7 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  45, Average loss 0.001
+Time consuming for a global epoch 544.9 s
+----Epoch------ 46
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  46, Average loss 0.001
+Time consuming for a global epoch 546.1 s
+----Epoch------ 47
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Round  47, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 48
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  48, Average loss 0.001
+Time consuming for a global epoch 545.5 s
+----Epoch------ 49
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  49, Average loss 0.001
+Time consuming for a global epoch 544.9 s
+----Epoch------ 50
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  50, Average loss 0.001
+Time consuming for a global epoch 545.1 s
+----Epoch------ 51
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.7 s
+Round  51, Average loss 0.001
+Time consuming for a global epoch 545.6 s
+----Epoch------ 52
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  52, Average loss 0.001
+Time consuming for a global epoch 545.5 s
+----Epoch------ 53
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  53, Average loss 0.001
+Time consuming for a global epoch 545.5 s
+----Epoch------ 54
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  54, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 55
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  55, Average loss 0.001
+Time consuming for a global epoch 545.3 s
+----Epoch------ 56
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  56, Average loss 0.001
+Time consuming for a global epoch 546.1 s
+----Epoch------ 57
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  57, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 58
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  58, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 59
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  59, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 60
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  60, Average loss 0.001
+Time consuming for a global epoch 545.9 s
+----Epoch------ 61
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Round  61, Average loss 0.001
+Time consuming for a global epoch 545.2 s
+----Epoch------ 62
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  62, Average loss 0.001
+Time consuming for a global epoch 545.4 s
+----Epoch------ 63
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  63, Average loss 0.001
+Time consuming for a global epoch 546.1 s
+----Epoch------ 64
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.7 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  64, Average loss 0.001
+Time consuming for a global epoch 544.9 s
+----Epoch------ 65
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.6 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  65, Average loss 0.001
+Time consuming for a global epoch 545.4 s
+----Epoch------ 66
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  66, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 67
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  67, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 68
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  68, Average loss 0.001
+Time consuming for a global epoch 545.3 s
+----Epoch------ 69
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Round  69, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 70
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  70, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 71
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  71, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 72
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Round  72, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 73
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  73, Average loss 0.001
+Time consuming for a global epoch 544.9 s
+----Epoch------ 74
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.5 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  74, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 75
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  75, Average loss 0.001
+Time consuming for a global epoch 545.5 s
+----Epoch------ 76
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  76, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 77
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Round  77, Average loss 0.001
+Time consuming for a global epoch 546.3 s
+----Epoch------ 78
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  78, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 79
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.4 s
+Round  79, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 80
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  80, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 81
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  81, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 82
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  82, Average loss 0.001
+Time consuming for a global epoch 545.2 s
+----Epoch------ 83
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  83, Average loss 0.001
+Time consuming for a global epoch 545.6 s
+----Epoch------ 84
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  84, Average loss 0.001
+Time consuming for a global epoch 545.9 s
+----Epoch------ 85
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  85, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 86
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.7 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Round  86, Average loss 0.001
+Time consuming for a global epoch 545.4 s
+----Epoch------ 87
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  87, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 88
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  88, Average loss 0.001
+Time consuming for a global epoch 545.4 s
+----Epoch------ 89
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  89, Average loss 0.001
+Time consuming for a global epoch 545.1 s
+----Epoch------ 90
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  90, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 91
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  91, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 92
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  92, Average loss 0.001
+Time consuming for a global epoch 545.1 s
+----Epoch------ 93
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  93, Average loss 0.001
+Time consuming for a global epoch 546.0 s
+----Epoch------ 94
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Round  94, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 95
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  95, Average loss 0.001
+Time consuming for a global epoch 545.5 s
+----Epoch------ 96
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Round  96, Average loss 0.001
+Time consuming for a global epoch 545.6 s
+----Epoch------ 97
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Round  97, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 98
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  98, Average loss 0.001
+Time consuming for a global epoch 545.7 s
+----Epoch------ 99
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.1 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Round  99, Average loss 0.001
+Time consuming for a global epoch 545.8 s
+----Epoch------ 100
+Client  [  1/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.3 s
+Client  [  2/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.2 s
+Client  [  3/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.9 s
+Client  [  4/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 109.0 s
+Client  [  5/  5]
+Local training epoch [  1/  2]
+Local training epoch [  2/  2]
+Time consuming of each client 108.8 s
+Round 100, Average loss 0.001
+Time consuming for a global epoch 545.5 s
