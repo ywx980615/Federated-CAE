@@ -28,7 +28,7 @@ Running the [main.py](https://github.com/ywx980615/Federated-CAE/blob/master/mai
 
 Draw the loss rate epoch plot by [draw.ipynb](https://github.com/ywx980615/Federated-CAE/blob/master/utils/draw.ipynb)
 
-Test the compression effect by [PSNR.py](https://github.com/ywx980615/Federated-CAE/blob/master/utils/PSNR.py) [ssim.py](https://github.com/ywx980615/Federated-CAE/blob/master/utils/ssim.py) 
+Test the compression effect by [PSNR.py](https://github.com/ywx980615/Federated-CAE/blob/master/utils/PSNR.py) [MSSIM.py](https://github.com/ywx980615/Federated-CAE/blob/master/utils/MSSIM.py) 
 
 
 ## Result
