@@ -34,3 +34,5 @@ Test the compression effect by [PSNR.py](https://github.com/ywx980615/Federated-
 ## Result
 The CAE result stored in [here](https://github.com/ywx980615/Federated-CAE/tree/master/CAE_OUT), federated combine CAE result stored in [here](https://github.com/ywx980615/Federated-CAE/tree/master/FL_CAE_out).
 
+![](https://github.com/ywx980615/Federated-CAE/blob/master/SHOW.png)
+
