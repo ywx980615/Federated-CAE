@@ -22,7 +22,9 @@ Testing Dataset is [Kodak24](http://r0k.us/graphics/kodak/)
 ## Run
 First need to seperate the dataset by using [cut.ipynb](https://github.com/ywx980615/Federated-CAE/blob/master/utils/cut.ipynb)
 
-Then need to set the configure in [train.yaml](https://github.com/ywx980615/Federated-CAE/blob/master/configs/train.yaml) and [test.yaml](https://github.com/ywx980615/Federated-CAE/blob/master/configs/test.yaml).
+Then need to set the CAE configure in [train.yaml](https://github.com/ywx980615/Federated-CAE/blob/master/configs/train.yaml) and [test.yaml](https://github.com/ywx980615/Federated-CAE/blob/master/configs/test.yaml).
+
+Set the federated learning configure in [config.py](https://github.com/ywx980615/Federated-CAE/blob/master/src/config.py)
 
 Running the [main.py](https://github.com/ywx980615/Federated-CAE/blob/master/main.py) and [test.py](https://github.com/ywx980615/Federated-CAE/blob/master/src/test.py) to train and test the model.
 
