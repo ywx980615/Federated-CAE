@@ -24,7 +24,7 @@ class LocalUpdate(object):
         )
 
     def train(self, net):
-
+#客户端训练
         net.train()
         # train and update
         optimizer = optim.Adam(
@@ -34,13 +34,16 @@ class LocalUpdate(object):
         start = time.time()
         for iter in range(self.args.local_ep):
             print(
+#输出训练状态
                 "Local training epoch [{:3d}/{:3d}]" .format(iter+1, self.args.local_ep))
+#转入迭代次数
             for batch_idx, data in enumerate(self.ldr_train, start=1):
                 img, patches, _ = data
 
                 patches = patches.to(self.args.device)
 
                 avg_loss_per_image = 0.0
+#一次迭代内训练，60个图像块
                 for i in range(6):
                     for j in range(10):
                         optimizer.zero_grad()
@@ -54,6 +57,7 @@ class LocalUpdate(object):
                         loss.backward()
                         optimizer.step()
                 avg_loss += avg_loss_per_image
+#综合迭代，输出本地更新的模型
             epoch_avg += avg_loss/len(self.ldr_train)
         end = time.time()
         print('Time consuming of each client {:.1f} s'.format(end - start))
