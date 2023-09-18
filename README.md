@@ -12,6 +12,7 @@ SSIM code credit to https://blog.csdn.net/weixin42096901/article/details/9017253
 
 ## Requirements
 Python==3.8.10 other toolkit See [requirement.txt](https://github.com/ywx980615/Federated-CAE/blob/master/requirements.txt)
+Cuda Version is 11.8
 
 ## Dataset
 Training Dataset is [Youtube frame](https://drive.google.com/open?id=1wbwkpz38stSFMwgEKhoDCQCMiLLFVC4T)
